@@ -4,7 +4,6 @@ const nextConfig: import('next').NextConfig = {
     images: {
       unoptimized: true, // تعطيل تحسين الصور
     },
-  };
-  
-  export default nextConfig;
-  
+};
+
+export default nextConfig;
